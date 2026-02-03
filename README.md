@@ -66,12 +66,7 @@ Trafik önce XDP’den geçer; geçen paketler çıkış arayüzüne iletilir, d
 - Go 1.21+, Clang/LLVM (BPF derleme)
 - İsteğe bağlı: ClickHouse, InfluxDB
 
-Kurulum ve config ayrıntıları için ana **README**, tüm alan ve değerlerin anlamı için **A’dan Z’ye** dokümana bakılabilir.
-
 ---
 
-## Dokümanlar
 
-- **[README](../README.md)** — Kurulum, konfigürasyon, API örnekleri
-- **[Kılköprü A’dan Z’ye Teknik Doküman](KILKOPRU_A_Z_DOKUMAN.md)** — Config, müşteri modeli, drop nedenleri, BPF map’ler, API listesi
 
